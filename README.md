@@ -1,2 +1,2 @@
 # psy-phy
-MIT Hackathon startup focused on rehab and earthl
+MIT Hackathon startup focused on rehabilitation of wounded warriors.
